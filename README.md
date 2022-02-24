@@ -3,7 +3,7 @@
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noppa001&show_icons=true&locale=en&theme=tokyonight" alt="noppa001" /></p>
 
-[![Palapolla's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noppa001&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
+[![Palapolla's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noppa001&theme=nord_dark)](https://github.com/noppa001)
 
 <hr>
 <p>Pinned</p>
@@ -14,6 +14,9 @@
 <br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=drug-system&&theme=tokyonight)](https://github.com/pperorin/drug-system)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moondamon&repo=SoftStudio_HTML&&theme=tokyonight)](https://github.com/moondamon/SoftStudio_HTML)
+
 
 
 
