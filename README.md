@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noppawat K.</h1>
-- 🌱 I’m currently learning C/C++, Python, Java, ReactJS, JavaScript, NodeJs, HTML/CSS
+- 🌱 I’m currently learning C/C++, C#, Python, Java, ReactJS, Material UI, JavaScript, NodeJs, HTML/CSS
 
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noppa001&show_icons=true&locale=en&theme=tokyonight" alt="noppa001" /></p>
