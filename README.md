@@ -14,7 +14,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=soft-dev&&theme=tokyonight)](https://github.com/pperorin/soft-dev)
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=drug-system&&theme=tokyonight)](https://github.com/pperorin/drug-system)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=drug-system&&theme=tokyonight)](https://github.com/pperorin/drug-system) -->
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moondamon&repo=SoftStudio_HTML&&theme=tokyonight)](https://github.com/moondamon/SoftStudio_HTML)
 <br />
