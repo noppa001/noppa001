@@ -4,7 +4,7 @@
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noppa001&show_icons=true&locale=en&theme=tokyonight" alt="noppa001" /></p>
 
-[![Palapolla's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noppa001&theme=nord_dark)](https://github.com/noppa001)
+<!-- [![Palapolla's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noppa001&theme=nord_dark)](https://github.com/noppa001) -->
 
 <hr>
 <!-- <p>My Contributions</p>
@@ -16,9 +16,9 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=drug-system&&theme=tokyonight)](https://github.com/pperorin/drug-system) -->
 <!-- &nbsp; -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moondamon&repo=SoftStudio_HTML&&theme=tokyonight)](https://github.com/moondamon/SoftStudio_HTML)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moondamon&repo=SoftStudio_HTML&&theme=tokyonight)](https://github.com/moondamon/SoftStudio_HTML)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=Project-Theory-Com&&theme=tokyonight)](https://github.com/pperorin/Project-Theory-Com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=Project-Theory-Com&&theme=tokyonight)](https://github.com/pperorin/Project-Theory-Com) -->
  -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noppa001&layout=compact&theme=tokyonight)](https://github.com/noppa001/github-readme-stats)
